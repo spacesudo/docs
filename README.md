@@ -96,7 +96,7 @@ After submitting your credentials and confirming your settings, your bot will be
 
 ## Support  
 If you encounter any issues or have questions, feel free to reach out:  
-- **Telegram Support**: Contact admins at [Telegram](https://t.me/AddOn_Ai).  
+- **Telegram Support**: Contact admins at [Telegram](https://t.me/AddOn_Ai/).  
 
 ---
 
